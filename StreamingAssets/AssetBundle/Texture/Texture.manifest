@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1400216261
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: socket_1_a.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: patchpanel_a.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: patchpanel_s.unity3d
+      Dependencies: {}

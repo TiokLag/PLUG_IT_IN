@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1655085185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0325d7f2e0870b669f69d94d08d9b58f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SocketPlug/Textures+/PatchPanel_s.tga
+Dependencies: []

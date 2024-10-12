@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3442794334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98302b95c177122b2dd9b48914c57079
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c159195192b438ebdf1f34cad30f7e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SocketPlug/prefab+/PatchPanel_2_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_4_03_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_6_02_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_5_03_prefab.prefab
+- Assets/SocketPlug/prefab+/MetalHead_01_prefab.prefab
+- Assets/SocketPlug/prefab+/Socket_1_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_5_01_prefab.prefab
+- Assets/SocketPlug/prefab+/Socket_1_02_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_3_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_6_01_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_4_02_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_5_02_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_4_01_prefab.prefab
+- Assets/SocketPlug/prefab+/PatchPanel_5_04_prefab.prefab
+Dependencies: []
